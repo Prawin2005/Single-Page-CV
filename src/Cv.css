@@ -1,0 +1,54 @@
+ body {
+      max-width: 700px;
+      margin: 40px auto;
+      border: 1px solid #ccc;
+      padding: 40px;
+      line-height: 1.6;
+    }
+
+    h2 {
+      margin-bottom: 5px;
+    }
+
+    hr {
+      border: 1px solid #000;
+      margin-top: 0;
+      margin-bottom: 20px;
+    }
+
+    p {
+      margin: 4px;
+    }
+
+    h3 {
+      margin-top: 20px;
+      color: #000;
+    }
+    
+    a {
+        color: #000;
+    }
+   
+
+    .subtitle {
+      color: green;
+      font-weight: bold;
+      margin:10px;
+      margin-left: 0;
+    }
+
+    .role {
+        color: rgb(6, 144, 190);
+    }
+
+    ul {
+      margin-top: 5px;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    .cv-container{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
